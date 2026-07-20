@@ -44,18 +44,7 @@ A console-based inventory management application built using **Core Java** with 
 5. Search Product
 6. Exit
 Enter your choice:
-### Sample Output
-Enter Product ID: 101
-Enter Product Name: Pen
-Enter Quantity: 50
-Enter Price: 10.50
-Product added successfully!
-Inventory-Management-System-Java/
-├── Main.java              # Main class with menu
-├── Product.java           # Product class with encapsulation
-├── InventoryManager.java  # CRUD operations logic
-├── inventory.txt          # Data storage file
-└── README.md
+
 ## 🎯 What I Learned
 - Implementing CRUD operations in Java
 - Using ArrayList for dynamic data storage
